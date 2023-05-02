@@ -6,7 +6,7 @@ A collection of my work
 An end-to-end documentation of Veripay App
 
 * ### Capstone Project()
-1. [Problem Statement](https://github.com/JoyOlogun/Projects/commit/a1dd5361fcd191e66887241bb4fb9c9b99f6bb02)
+1. [Problem Statement](https://github.com/JoyOlogun/Projects/blob/main/PROBLEM%20STATEMENT%20FOR%20VERIPAY%20APP.pdf)
 2. [Competitive Analysis]()
 3. [PRD]()
 4. [Business Model Canvas]()
