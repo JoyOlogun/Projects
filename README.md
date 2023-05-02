@@ -10,6 +10,6 @@ Here contains all the documents done during this project.
 2. [Competitive Analysis]()
 3. [PRD]()
 4. [Business Model Canvas](https://github.com/JoyOlogun/Projects/blob/main/VERIPAY%20Business%20Model%20Canvas.pdf)
-5. [Lean Model Canvas]()
+5. [Lean Model Canvas](https://github.com/JoyOlogun/Projects/blob/main/VERIPAY%20Lean%20Model%20Canvas.pdf)
 6. [Prototype]()
 7. [Project Documentation in one](https://github.com/JoyOlogun/Projects/blob/main/Project%20Documentation.pdf)
