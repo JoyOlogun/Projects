@@ -7,7 +7,7 @@ Here contains all the documents done during this project.
 * ### End-to-End Documentation
 
 1. [Problem Statement](https://github.com/JoyOlogun/Projects/blob/main/PROBLEM%20STATEMENT%20FOR%20VERIPAY%20APP.pdf)
-2. [Competitive Analysis]()
+2. [Competitive Analysis](https://github.com/JoyOlogun/Projects/blob/main/VERIPAY%20competitive%20analysis.docx)
 3. [PRD](https://github.com/JoyOlogun/Projects/blob/main/VERIPAY%20PRD.docx)
 4. [Business Model Canvas](https://github.com/JoyOlogun/Projects/blob/main/VERIPAY%20Business%20Model%20Canvas.pdf)
 5. [Lean Model Canvas](https://github.com/JoyOlogun/Projects/blob/main/VERIPAY%20Lean%20Model%20Canvas.pdf)
