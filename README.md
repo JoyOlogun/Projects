@@ -1,5 +1,5 @@
 # Capstone Project 
-Building a web app for payment verification
+A web app for payment confirmation
 
 ## Content
 Here contains all the documents done during this project.
