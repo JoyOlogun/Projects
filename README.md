@@ -11,5 +11,5 @@ Here contains all the documents done during this project.
 3. [PRD](https://github.com/JoyOlogun/Projects/blob/main/VERIPAY%20PRD.docx)
 4. [Business Model Canvas](https://github.com/JoyOlogun/Projects/blob/main/VERIPAY%20Business%20Model%20Canvas.pdf)
 5. [Lean Model Canvas](https://github.com/JoyOlogun/Projects/blob/main/VERIPAY%20Lean%20Model%20Canvas.pdf)
-6. [Prototype]()
+6. [Prototype](https://github.com/JoyOlogun/Projects/blob/main/VERIPAY%20prototype%20illustration%20video.mp4)
 7. [Project Documentation in one](https://github.com/JoyOlogun/Projects/blob/main/Project%20Documentation.pdf)
