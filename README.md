@@ -11,4 +11,4 @@ An end-to-end documentation of Veripay App
 3. [PRD]()
 4. [Business Model Canvas](https://github.com/JoyOlogun/Projects/blob/main/VERIPAY%20Business%20Model%20Canvas.pdf)
 5. [Lean Model Canvas]()
-6. [Veripay Prototype]()
+6. [Veripay Prototype](https://github.com/JoyOlogun/Projects/blob/main/VERIPAY%20prototype%20illustration%20video.mp4)
