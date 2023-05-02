@@ -12,3 +12,4 @@ Here contains all the documents done during this project.
 4. [Business Model Canvas]()
 5. [Lean Model Canvas]()
 6. [Prototype]()
+7. [Project Documentation in one](https://github.com/JoyOlogun/Projects/blob/main/Project%20Documentation.pdf)
