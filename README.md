@@ -6,7 +6,7 @@ Here contains all the documents done during this project.
 
 * ### End-to-End Documentation
 
-1. [Problem Statement]()
+1. [Problem Statement](https://github.com/JoyOlogun/Projects/blob/main/PROBLEM%20STATEMENT%20FOR%20VERIPAY%20APP.pdf)
 2. [Competitive Analysis]()
 3. [PRD]()
 4. [Business Model Canvas]()
